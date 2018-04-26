@@ -1,5 +1,6 @@
-# notification-services-php
-PHP Notifikasyon Servisleri
+# ccors-transactionresult-service-php
+PHP Kredi Kartı İşlem Sonucu Bildirim Servisi
+
 
 ## Kullanım
 Wirecard servislerini kullanabilmek için [Wirecard'a](https://www.wirecard.com.tr) üye olmalısınız. Üye olduktan sonra Wirecard sizinle token bilgileri için UserCode ve Pin keylerini, sms ile ödeme servislerinde kullanılacak olan TurkcellServiceId değerlerini sizinle paylaşacaktır. Paylaşılan bu anahtarları kendi projenizde ilgili yerlere yazarak saklamanız ve kullanmanız gerekmektedir.
